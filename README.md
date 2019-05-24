@@ -1,6 +1,6 @@
 # Genome-Assembler
 
-A basic assembler to assemble a genome from a set of error-prone reads. This project is based on the [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) capstone project on Coursera.
+A basic genome assembler to assemble contigs of a genome from a set of error-prone reads. This project is based on the [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) capstone project on Coursera.
 
 The assembler work as follows:
 * It breaks given reads into k-mers (with k = 20)
